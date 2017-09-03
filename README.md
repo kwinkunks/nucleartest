@@ -11,5 +11,3 @@ You can clone and run this notebook locally, in which case you'll need to set up
 Or you can run it LIVE on Azure Notebooks...
 
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/kwinkunks/libraries/nucleartest)
-
-Or you can run it live in the new [MyBinder](https://beta.mybinder.org/). 
