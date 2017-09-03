@@ -5,9 +5,13 @@ source /home/nbcommon/anaconda3_410/bin/activate
 
 # Set up proxy
 http_proxy=http://webproxy:3128
+HTTP_PROXY=http://webproxy:3128
 https_proxy=http://webproxy:3128
+HTTPS_PROXY=http://webproxy:3128
 export http_proxy 
-export https_proxy
+export https_proxy 
+export HTTP_PROXY 
+export HTTPS_PROXY
 
 # conda
 conda config --add channels conda-forge

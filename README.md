@@ -8,6 +8,6 @@ You can clone and run this notebook locally, in which case you'll need to set up
     conda install basemap
     conda install cartopy
 
-Or you can run it LIVE on Azure Notebooks...
+Or you can run it LIVE on Azure Notebooks. The environment takes about a minute to install, so please be patient.
 
-[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/kwinkunks/libraries/nucleartest)
+[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/kwinkunks/libraries/nuclear)
